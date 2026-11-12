@@ -1,1 +1,80 @@
 name,title,company,company_domain,seniority,icp_category,events,role_at_event,linkedin_url,email,email_status,enrichment_status,outreach_status,source_url,notes
+Rajon Tu***n,Director of Engineering Enablement & Engagement,Splunk,splunk.com,director,enablement,ai-engineer-code-summit,,,,,pending,none,apollo,id:54c1dadb74686916398ba351 | PRIORITY internal engineering enablement
+Michael Pe***o,"Senior Manager, Engineering Enablement",Datadog,datadoghq.com,senior manager,enablement,qcon-sf,,,,,pending,none,apollo,id:606284b1b984290001d60aec | PRIORITY internal engineering enablement
+Lee Hi***e,Program Manager - Engineering Enablement,Uber,uber.com,manager,enablement,qcon-sf,,,,,pending,none,apollo,id:54a320d47468693825e68c56 | PRIORITY internal engineering enablement
+Thomas Do***r,"Director, AI Revenue Enablement",Harness,harness.io,director,enablement,qcon-sf,,,,,pending,none,apollo,id:54eba53b746869444c691905 | PRIORITY AI enablement title
+Nancy Lu***i,"Senior Director of Customer Success, Onboarding, Adoption, Enablement, Education",Splunk,splunk.com,senior director,onboarding,ai-engineer-code-summit,,,,,pending,none,apollo,id:611c15fb7480cd0001983df8 | PRIORITY spans onboarding + enablement + education
+Alison Mc***l,Head of Customer Education,OpenAI,openai.com,head,enablement,ai-engineer-code-summit;qcon-sf,,,,,pending,none,apollo,id:54a299027468693cddccd42e | PRIORITY
+Danielle Za***n,Technical Onboarding Manager,OpenAI,openai.com,manager,onboarding,ai-engineer-code-summit;qcon-sf,,,,,pending,none,apollo,id:5570d9a87369645544340300 | PRIORITY
+Elisha Il***r,"Senior Manager, Revenue Enablement",OpenAI,openai.com,senior manager,enablement,ai-engineer-code-summit;qcon-sf,,,,,pending,none,apollo,id:55d7fc97f3e5bb758f003201
+Henry As***n,Group Program Manager,OpenAI,openai.com,manager,tpm,ai-engineer-code-summit;qcon-sf,,,,,pending,none,apollo,id:66fb2d214f270c0001d5d6c3
+Moe Mi***i,Discovery Program Manager,OpenAI,openai.com,manager,tpm,ai-engineer-code-summit;qcon-sf,,,,,pending,none,apollo,id:55710a0c736964084e5f0200
+Christy Se***o,Head of Global Customer Enablement,Databricks,databricks.com,head,enablement,ai-engineer-code-summit;qcon-sf,,,,,pending,none,apollo,id:605b2a9228b3ef00017c4fc3 | PRIORITY
+John Sh***a,"Senior Director, Head of Global Sales Enablement",Databricks,databricks.com,senior director,enablement,ai-engineer-code-summit;qcon-sf,,,,,pending,none,apollo,id:57e1be96a6da9856ff1c7a2b
+Kripa Ma***s,Customer Enablement Program Manager,Databricks,databricks.com,manager,enablement,ai-engineer-code-summit;qcon-sf,,,,,pending,none,apollo,id:677f930f6f3cb8000170d82c
+Priyanka Pa***r,"Senior Director, Technical Program Management",Databricks,databricks.com,senior director,tpm,ai-engineer-code-summit;qcon-sf,,,,,pending,none,apollo,id:66f5b8b67c3890000178bfad
+Joanna Ch***m,Field Enablement Manager,Databricks,databricks.com,manager,enablement,ai-engineer-code-summit;qcon-sf,,,,,pending,none,apollo,id:57dfee8da6da980b414cd956
+Emily Fa***a,Senior Field Enablement Manager,Databricks,databricks.com,senior manager,enablement,ai-engineer-code-summit;qcon-sf,,,,,pending,none,apollo,id:55714e117369642bc9676b00
+Allison Gi***n,Head of Global Revenue Enablement,Atlassian,atlassian.com,head,enablement,ai-engineer-code-summit,,,,,pending,none,apollo,id:5f4bbd373f04990001d640cb | PRIORITY
+Lacey Te***l,"Head of Implementation, AMER",Atlassian,atlassian.com,head,onboarding,ai-engineer-code-summit,,,,,pending,none,apollo,id:6251c97bbd22270001e53201 | PRIORITY
+Kevin Sm***h,"Head of Implementation Services, EMEA",Atlassian,atlassian.com,head,onboarding,ai-engineer-code-summit,,,,,pending,none,apollo,id:59e49f8ca6da98dd2081789f
+Jenia Xa***y,Newlassian Onboarding Manager,Atlassian,atlassian.com,manager,onboarding,ai-engineer-code-summit,,,,,pending,none,apollo,id:65ed2e9ae438e200078fa620 | PRIORITY internal new-hire onboarding
+Bethann Mo***l,"Senior Revenue Enablement Readiness Manager, Strategic Sales",Atlassian,atlassian.com,senior manager,enablement,ai-engineer-code-summit,,,,,pending,none,apollo,id:60910452bc003800017cc7c0
+Sarah Ri***y,Head of Implementation Services,Datadog,datadoghq.com,head,onboarding,qcon-sf,,,,,pending,none,apollo,id:630130c0e815a000017876c6 | PRIORITY
+Daniella Sc***r,"Director, Technical Program Management",Datadog,datadoghq.com,director,tpm,qcon-sf,,,,,pending,none,apollo,id:63d86f8c4a67b10001d087c3
+Kayla Ke***s,Senior Field Enablement Manager - Leadership Development,Datadog,datadoghq.com,senior manager,enablement,qcon-sf,,,,,pending,none,apollo,id:683fca3ff32842000193cf74 | leadership development angle
+Savitha Na***r,Head of Customer Onboarding and Professional Services,Adobe,adobe.com,head,onboarding,qcon-sf,,,,,pending,none,apollo,id:68244315cb914e000176d286 | PRIORITY
+Saurabh Gu***u,"Head, Customer Onboarding & Launch Advisory Services",Adobe,adobe.com,head,onboarding,qcon-sf,,,,,pending,none,apollo,id:54a463b7746869320988f143
+Melanie Ke***n,Technical Sales Enablement Manager,Adobe,adobe.com,manager,enablement,qcon-sf,,,,,pending,none,apollo,id:66fba64c7790ed0001b53fa9
+Sheronda Di***n,Revenue Enablement Lead,GitHub,github.com,lead,enablement,fastmcp-meetup-github-hq,,,,,pending,none,apollo,id:60f718f3db3dd60001664937
+Jen Da***d,"Senior Revenue Enablement Lead, Product",GitHub,github.com,senior lead,enablement,fastmcp-meetup-github-hq,,,,,pending,none,apollo,id:657ac984cbd64b00017e365b
+Britni Bu***s,Senior Customer Enablement Manager,GitHub,github.com,senior manager,enablement,fastmcp-meetup-github-hq,,,,,pending,none,apollo,id:5d4a54b5a3ae612aa4fffb9f
+Amanda Wi***n,Customer Enablement Program Manager,GitHub,github.com,manager,enablement,fastmcp-meetup-github-hq,,,,,pending,none,apollo,id:67ee3134ea58ab00011f9808
+Anjali Te***i,"Director, Technical Program Management",Splunk,splunk.com,director,tpm,ai-engineer-code-summit,,,,,pending,none,apollo,id:614f1d124a2e950001076141
+Clinton Ho,"Sr. Director, Technical Program Management",Splunk,splunk.com,senior director,tpm,ai-engineer-code-summit,,,,,pending,none,apollo,id:5f6e17f937423a0001fce09f
+Lonnie Ke***o,"Senior Director, Technical Program Management",Splunk,splunk.com,senior director,tpm,ai-engineer-code-summit,,,,,pending,none,apollo,id:687b9af0da959e00018eb6fd
+Debasree Mi***a,Director Technical Program Management,Confluent,confluent.io,director,tpm,qcon-sf,,,,,pending,none,apollo,id:610d0ec1e348be0001ab780d
+Mrina Na***n,"Director, Technical Program Management",Confluent,confluent.io,director,tpm,qcon-sf,,,,,pending,none,apollo,id:55709aef73696418d0000200
+Alex Po***a,Director - Technical Program Management,UiPath,uipath.com,director,tpm,ai-engineer-code-summit,,,,,pending,none,apollo,id:66fd5627643b670001ef2b1c
+Cosmin Po***a,Director Technical Program Management,UiPath,uipath.com,director,tpm,ai-engineer-code-summit,,,,,pending,none,apollo,id:66fa679fe1e04c0001c0c3dc
+Pavithra Ja***n,"Director, Technical Program Management, Customer Experience Engineering",Snowflake,snowflake.com,director,tpm,qcon-sf,,,,,pending,none,apollo,id:570ed3e0f3e5bb78e60bdfcb
+Mark Cr***e,Director of Sales Enablement,Snowflake,snowflake.com,director,enablement,qcon-sf,,,,,pending,none,apollo,id:6700c339eb9b7d00010004d3
+Ed Fr***n,"Director, Revenue Enablement Technical Systems",Snowflake,snowflake.com,director,enablement,qcon-sf,,,,,pending,none,apollo,id:6725d17289d6370001b35dd8
+Priyanka P,Customer Enablement Program Lead,Snowflake,snowflake.com,lead,enablement,qcon-sf,,,,,pending,none,apollo,id:5ace106ba6da98d1382ad65a
+Brandon Ad***s,Solution Engineering Onboarding Manager,Snowflake,snowflake.com,manager,onboarding,qcon-sf,,,,,pending,none,apollo,id:66680eeeb039040001d98e47 | PRIORITY internal SE onboarding
+Joe Ch***i,"Senior Director, Revenue Enablement",Harness,harness.io,senior director,enablement,qcon-sf,,,,,pending,none,apollo,id:54a3bf207468692abf8f2b0f
+Preston Ti***s,"Director, Revenue Enablement",Harness,harness.io,director,enablement,qcon-sf,,,,,pending,none,apollo,id:60a5812a7b1aad0001b5dbf7
+Shawn Pe***n,"Director, Sales Enablement",Harness,harness.io,director,enablement,qcon-sf,,,,,pending,none,apollo,id:65252da6a6a0bd0001182e1e
+Anna Ke***e,Senior Revenue Enablement Manager,Harness,harness.io,senior manager,enablement,qcon-sf,,,,,pending,none,apollo,id:68617393a2c05f00019cbe17
+Carissa Th***s,Head of Revenue Enablement,Exa,exa.ai,head,enablement,ai-engineer-code-summit,,,,,pending,none,apollo,id:689b381a603d5b00018a3cf0
+Angelina Ma***y,Head of Revenue Enablement,Sentry,sentry.io,head,enablement,ai-engineer-code-summit,,,,,pending,none,apollo,id:60cd281a28ff1d0001953960
+Gurpal Si***h,Sr. Sales Enablement Manager,Sonar,sonarsource.com,senior manager,enablement,ai-engineer-code-summit;qcon-sf,,,,,pending,none,apollo,id:5b3010dea6da982d2d37188a
+Patrick Ro***n,Sales Enablement Lead,Endor Labs,endorlabs.com,lead,enablement,qcon-sf,,,,,pending,none,apollo,id:66fa8c3ff9bde30001f38e8f
+Kat Lo***y,Principal Sales Enablement Manager,Honeycomb,honeycomb.io,principal,enablement,qcon-sf,,,,,pending,none,apollo,id:60f1b78d20ad71000146d60b
+Eliana Va***a,Senior Sales Enablement Manager,Honeycomb,honeycomb.io,senior manager,enablement,qcon-sf,,,,,pending,none,apollo,id:55707924736964408b310600
+Diane Lo***p,"Manager, Customer Education",Honeycomb,honeycomb.io,manager,enablement,qcon-sf,,,,,pending,none,apollo,id:5e6419ae09a46400015e55c8
+David Ma***e,Principal Program Manager,Honeycomb,honeycomb.io,principal,tpm,qcon-sf,,,,,pending,none,apollo,id:663e25be437ab70001721e83
+Marie-Louise Da***d,Staff Sales Enablement Manager,n8n,n8n.io,staff,enablement,builder-night-n8n-vercel-arize,,,,,pending,none,apollo,id:60b74d4b1fa0cd000136255f
+Rainey Sh***p,Senior Sales Enablement Manager,Temporal,temporal.io,senior manager,enablement,durable-ai-meetup-temporal,,,,,pending,none,apollo,id:67226b30ae168e0001a56177
+Ben St***y,Senior Program Manager,Temporal,temporal.io,senior manager,tpm,durable-ai-meetup-temporal,,,,,pending,none,apollo,id:54a3a1657468693676f62806
+Nicole Re***s,"Director, Sales Enablement",Twilio,twilio.com,director,enablement,qcon-sf,,,,,pending,none,apollo,id:671bde20ced3a80001c17144
+Danielle Br***t,Senior Sales Enablement Learning Experience Designer,Twilio,twilio.com,senior,enablement,qcon-sf,,,,,pending,none,apollo,id:5ffb0684e8e9440001080513
+David Sp***n,"Manager, Security Customer Enablement",Twilio,twilio.com,manager,enablement,qcon-sf,,,,,pending,none,apollo,id:67db29fdeaec4d00012dc6da
+Maria Sa***z,Fast Track Onboarding Manager,Twilio,twilio.com,manager,onboarding,qcon-sf,,,,,pending,none,apollo,id:664c190424455f0001e802ac
+Hannah Gr***d,"Director, Customer Onboarding & Delivery Management",Fivetran,fivetran.com,director,onboarding,ai-engineer-code-summit,,,,,pending,none,apollo,id:57d622c3a6da980644eb466d
+William Co***n,"Senior Revenue Enablement Manager, Strategic",Fivetran,fivetran.com,senior manager,enablement,ai-engineer-code-summit,,,,,pending,none,apollo,id:5ab8595fa6da981580e26b9e
+Colby Va***e,"Director, Customer Education & Enablement",ZoomInfo,zoominfo.com,director,enablement,ai-engineer-code-summit,,,,,pending,none,apollo,id:6019bd73968e020001503581
+Olivia We***k,"Senior Manager, Customer Onboarding & Delivery",ZoomInfo,zoominfo.com,senior manager,onboarding,ai-engineer-code-summit,,,,,pending,none,apollo,id:6024f31a23c90700011d18b9
+Amanda Be***y,Director - Head of North America SMB Customer Onboarding,LinkedIn,linkedin.com,director,onboarding,qcon-sf,,,,,pending,none,apollo,id:697b3353dc22b30001971b73
+Deanna Ga***e,Global Enablement Lead | Learning Experience Designer,LinkedIn,linkedin.com,lead,enablement,qcon-sf,,,,,pending,none,apollo,id:6aaf856f59076100018f825b
+Marianna Ta***o,Senior Revenue Enablement Lead,LinkedIn,linkedin.com,senior lead,enablement,qcon-sf,,,,,pending,none,apollo,id:658003718a11660001665df7
+Colby Lo***z,Senior Sales Enablement Lead - Onboarding,LinkedIn,linkedin.com,senior lead,onboarding,qcon-sf,,,,,pending,none,apollo,id:66f6e22b6ff7440001af2c71
+Grace Ba***t,Head of Implementation & Strategy,Uber,uber.com,head,onboarding,qcon-sf,,,,,pending,none,apollo,id:60959c993819b90001846ba3
+Karolina Ja***s,Global Revenue Enablement Lead,Uber,uber.com,lead,enablement,qcon-sf,,,,,pending,none,apollo,id:54a7ba7c74686975f807284f
+Kym Pr***e,"Senior Director, Revenue Enablement (Global)",Freshworks,freshworks.com,senior director,enablement,qcon-sf,,,,,pending,none,apollo,id:54a71003746869730afab711
+Julie Do***s,"Director, Global Field Enablement",Freshworks,freshworks.com,director,enablement,qcon-sf,,,,,pending,none,apollo,id:60cc2a46c0204a0001bc4b1e
+Christina So***s,Group Program Manager,Duolingo,duolingo.com,manager,tpm,qcon-sf,,,,,pending,none,apollo,id:6817d05a7ebc1f000189c084
+Richard Ca***e,Principal Program Manager,Together AI,together.ai,principal,tpm,qcon-sf,,,,,pending,none,apollo,id:66fab30c46e4c50001b64dd6
+Dominique Mo***r,Events & Program Manager,Anthropic,anthropic.com,manager,tpm,ai-engineer-code-summit;claude-code-workshop-sf,,,,,pending,none,apollo,id:5ca9d91bf6512569f8a09fb9
+Nathalie Fe***e,Startup Program Manager,Neo4j,neo4j.com,manager,tpm,ai-engineer-code-summit,,,,,pending,none,apollo,id:67a225f599717f00019975cc
+Kathy La***e,Principal Customer Enablement Consultant,Workday,workday.com,principal,enablement,ai-engineer-code-summit,,,,,pending,none,apollo,id:54a5abec74686936764bb49f | Workday has 8+ customer enablement consultants in results
