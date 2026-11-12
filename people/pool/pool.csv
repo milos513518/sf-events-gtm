@@ -42,7 +42,7 @@ enablement,Rachel,Ka***n,Senior Field Enablement Manager,Datadog,5ad27740a6da988
 enablement,Dorothy,Po***n,Sales Enablement Lead (Asia),Adobe,60af3391cfce1900012bfbf6,qcon-sf
 enablement,Winston,Ta***g,Sales Enablement Lead | Solving,LinkedIn,63775fdf3fb1d1000178b342,qcon-sf
 enablement,Aya,Yo***i,"Sales Enablement Lead, Japac",Adobe,57da56ffa6da984a7cd6f5ce,qcon-sf
-enablement,Stacy,De***s,Enterprise Sales Enablement Lead,Confluent,622acf902423ce0001645049,
+enablement,Stacy,De***s,Enterprise Sales Enablement Lead,Confluent,622acf902423ce0001645049,qcon-sf
 enablement,Andrew,Mo***n,"Manager, Field Enablement",Datadog,63a0928887307d000199a700,qcon-sf
 enablement,William,Co***n,"Senior Revenue Enablement Manager, Strategic",Fivetran,5ab8595fa6da981580e26b9e,ai-engineer-code-summit
 enablement,Nelson,Me***o,"Manager, Field Enablement",Datadog,69f085742e221a0001d1eb5c,qcon-sf
@@ -64,7 +64,7 @@ enablement,Paul,O'***y,"Field Enablement Manager, Technical Solutions",Datadog,5
 enablement,Gish,Co***a,Delivery Sales Enablement Manager,MongoDB,5b257e23a6da98e832441395,qcon-sf
 enablement,Wayne,C,"Field Enablement Manager, Technical Solutions",Datadog,684e07daf1c84900014a96c4,qcon-sf
 enablement,Tracey,Br***n,Senior Global Sales Enablement Lead,LinkedIn,54ec3f99746869431147eb6e,qcon-sf
-enablement,Ester,Za***a,Senior Advisory Sales Enablement Lead,Confluent,627d826e73f12d00019a5818,
+enablement,Ester,Za***a,Senior Advisory Sales Enablement Lead,Confluent,627d826e73f12d00019a5818,qcon-sf
 enablement,Colby,Lo***z,Senior Sales Enablement Lead - Onboarding,LinkedIn,66f6e22b6ff7440001af2c71,qcon-sf
 enablement,Stephanie,Sa***s,Ads Sales Enablement Manager,Netflix,6858d41c2452460001b64754,qcon-sf
 enablement,Tom,Ko***l,Cloud Sales Enablement Manager,Databricks,66a6674a4207500001aa6a71,ai-engineer-code-summit;qcon-sf;mcp-2nd-birthday;agentic-ai-night
@@ -199,10 +199,10 @@ onboarding,Paulina,Go***z,"Implementation Lead, Uber for Business",Uber,63c40a37
 onboarding,Yahya,Ta***a,Implementation Lead - Uber for Business,Uber,5f6769431ead7a00014708ea,qcon-sf
 onboarding,Sushmita,Pa***a,"Implementation Lead, Uber for Business",Uber,57df61a6a6da980b0b557e84,qcon-sf
 onboarding,Jeronimo,He***a,Implementation Lead | Uber for Business,Uber,6a168d9021acac00010788ff,qcon-sf
-tpm,Debasree,Mi***a,Director Technical Program Management,Confluent,610d0ec1e348be0001ab780d,
+tpm,Debasree,Mi***a,Director Technical Program Management,Confluent,610d0ec1e348be0001ab780d,qcon-sf
 tpm,Anjali,Te***i,"Director, Technical Program Management",Splunk,614f1d124a2e950001076141,ai-engineer-code-summit
 tpm,Daniella,Sc***r,"Director, Technical Program Management",Datadog,63d86f8c4a67b10001d087c3,qcon-sf
-tpm,Mrina,Na***n,"Director, Technical Program Management",Confluent,55709aef73696418d0000200,
+tpm,Mrina,Na***n,"Director, Technical Program Management",Confluent,55709aef73696418d0000200,qcon-sf
 tpm,Alex,Po***a,Director - Technical Program Management,UiPath,66fd5627643b670001ef2b1c,ai-engineer-code-summit
 tpm,Cosmin,Po***a,Director Technical Program Management,UiPath,66fa679fe1e04c0001c0c3dc,ai-engineer-code-summit
 tpm,Clinton,Ho,"Sr. Director, Technical Program Management",Splunk,5f6e17f937423a0001fce09f,ai-engineer-code-summit
@@ -259,7 +259,7 @@ tpm,Nina,Sa***g,Principal Program Manager,Twilio,5570977973696425d2637c00,qcon-s
 tpm,Samuel,Ni***s,Principal Program Manager,Atlassian,61e63bad38bc370001d934ba,ai-engineer-code-summit
 tpm,Nikki,Pa***h,Staff Program Manager,Databricks,55702c2073696477dfbe9200,ai-engineer-code-summit;qcon-sf;mcp-2nd-birthday;agentic-ai-night
 tpm,Cassie,Ha***s,Principal Program Manager,ZoomInfo,5ad4f4a0a6da98677b6e244c,ai-engineer-code-summit
-tpm,McKenna,Br***r,Staff Program Manager,Confluent,65bbf014f0dd480001b3cb89,
+tpm,McKenna,Br***r,Staff Program Manager,Confluent,65bbf014f0dd480001b3cb89,qcon-sf
 tpm,Anuja,Ku***a,Staff Program Manager,Freshworks,57e0631ea6da981c458da102,qcon-sf
 tpm,Nellie,Niu,Inclusion Program Manager,Datadog,57e036d7a6da985ede805b1c,qcon-sf
 tpm,Andrew,To***r,Principal Program Manager,Atlassian,67004127f539d00001f62ac5,ai-engineer-code-summit
@@ -302,7 +302,7 @@ tpm,Sheetal,Mo***n,Senior Program Manager,Fivetran,679709b104e6e800013cdb05,ai-e
 enablement,Caroline,Go***w,Head of Sales Enablement - APAC,Uber,5b38803ea6da980c2283c949,qcon-sf
 enablement,Alex,Mo***e,Revenue Enablement Leader,GitHub,60cb567b8e73040001f1d3d8,fastmcp-meetup-github-hq
 enablement,Kishore,M,Japac Events Manager - Field Enablement,Adobe,637f14a58fd00b0001907539,qcon-sf
-enablement,Maggie,Ja***n,Head of Americas Sales Enablement,Confluent,68accf9bbe320400011541e1,
+enablement,Maggie,Ja***n,Head of Americas Sales Enablement,Confluent,68accf9bbe320400011541e1,qcon-sf
 enablement,Addie,Cr***e,Revenue Operations Enablement Manager,Atlassian,690ae76624ad25000117834c,ai-engineer-code-summit
 enablement,Brian,Do***n,"Manager, International Field Enablement Productivity",LinkedIn,60bf82dad3dae7000177a321,qcon-sf
 enablement,Bradford,Jo***n,Head of Enablement,Baseten,60291d7c5ea0a400019ed686,ai-engineer-code-summit;baseten-all-gather
@@ -329,7 +329,7 @@ enablement,Tafne,Ko***h,Enablement Lead,LinkedIn,5ee5c74409c60100010c7703,qcon-s
 enablement,Kristen,O'***l,Director of Global Sales Enablement,LinkedIn,66fdba9fd27e190001250be2,qcon-sf
 enablement,Ellie,La***e,Sr. Revenue Enablement Manager | Global GTM,Fivetran,5d3a64f2a3ae61347d3a7da4,ai-engineer-code-summit
 enablement,Victor,Sl***i,Enablement Lead,LinkedIn,60881454d232e40001401b9f,qcon-sf
-enablement,Markus,Wi***n,Director Sales Enablement EMEA,Confluent,5e8314104c0f890001dae63c,
+enablement,Markus,Wi***n,Director Sales Enablement EMEA,Confluent,5e8314104c0f890001dae63c,qcon-sf
 enablement,Jessica,Ad***s,Field Enablement Manager,Datadog,67c69be41125a00001fd30b0,qcon-sf
 enablement,Nick,La***e,"Manager, Global Sales Enablement",Databricks,681056fa87c1d400014eb81c,ai-engineer-code-summit;qcon-sf;mcp-2nd-birthday;agentic-ai-night
 enablement,Vladimir,De***u,"Sr. Manager, Sales Enablement",UiPath,66f9dab561199700017f8158,ai-engineer-code-summit
@@ -465,7 +465,7 @@ onboarding,Jim,Gr***r,Senior Onboarding and Delivery Manager,ZoomInfo,54a7397774
 onboarding,Camila,In***a,Onboarding & Enablement Program Manager,Databricks,61306dd4065b540001b9079b,ai-engineer-code-summit;qcon-sf;mcp-2nd-birthday;agentic-ai-night
 onboarding,Amy,Br***y,"Program Manager, Global Onboarding",Adobe,66f87f861fb6a70001f3e9ed,qcon-sf
 onboarding,Jessica,Ti***n,Project Manager - Onboarding Execution,Netflix,68564f9d88384c0001aa777e,qcon-sf
-onboarding,Marissa,Ba***r,Program Manager - Onboarding & L&D,Confluent,601a8fcd9113020001f8651b,
+onboarding,Marissa,Ba***r,Program Manager - Onboarding & L&D,Confluent,601a8fcd9113020001f8651b,qcon-sf
 onboarding,Trish,Mc***y,Senior Implementation Consultant | Team Lead,LinkedIn,672c890331ea0f0001183902,qcon-sf
 onboarding,Aya,Ke***y,Senior Onboarding Success Manager,Atlassian,59cba63da6da98bbf56c6219,ai-engineer-code-summit
 onboarding,Christopher,Ve***a,Senior Onboarding & Delivery Manager,ZoomInfo,5b21b944a6da98eefc983684,ai-engineer-code-summit
@@ -503,7 +503,7 @@ tpm,Mauli,Ry***n,Senior Program Manager,Atlassian,651aac0e40d9100001ed3100,ai-en
 tpm,Sylwia,Mi***k,Senior Program Manager,Atlassian,6700015e718d0c0001e7d976,ai-engineer-code-summit
 tpm,Anxhela,Qy***i,Senior Program Manager,Snowflake,60954bdb94c2ab0001ec9d0d,qcon-sf
 tpm,Mark,Be***r,Sr. Program Manager,Atlassian,54ec47b2746869444ccfd075,ai-engineer-code-summit
-tpm,Nicola,Ro***y,Senior Program Manager,Confluent,61adc74b8ce40c0001c8e922,
+tpm,Nicola,Ro***y,Senior Program Manager,Confluent,61adc74b8ce40c0001c8e922,qcon-sf
 tpm,Kathy,Kao,Senior Program Manager,Splunk,54a6f2c97468696b7f980407,ai-engineer-code-summit
 tpm,Cristina,Ni***a,Senior Program Manager,UiPath,5d4e2d5480f93e072857c8e3,ai-engineer-code-summit
 tpm,Hannah,To***s,Senior Program Manager,MongoDB,65166d02d50e65000170eecb,qcon-sf
@@ -538,7 +538,7 @@ tpm,Julie,Kim,Senior Program Manager,Datadog,6822e87a9b4d0800013b849c,qcon-sf
 tpm,Chelsea,Ma***h,Senior Program Manager,Databricks,6611d657df9caf0007c85d11,ai-engineer-code-summit;qcon-sf;mcp-2nd-birthday;agentic-ai-night
 tpm,Sara,Br***e,Web Program Manager,OpenAI,6514024f06f14c0001c38da6,ai-engineer-code-summit;qcon-sf;codex-community-meetup-12;agentic-ai-night
 tpm,Sarthak,,HRIS Program Manager,Atlassian,687e316aa2aa0b0001ee9ee1,ai-engineer-code-summit
-tpm,Annie,Sc***i,Program Manager Compensation,Confluent,57d4e495a6da98537a4500d8,
+tpm,Annie,Sc***i,Program Manager Compensation,Confluent,57d4e495a6da98537a4500d8,qcon-sf
 tpm,Vanessa,Sh***h,Program Manager - Recruiting Ops,MongoDB,54a53a6e7468693676e11b87,qcon-sf
 tpm,Saachi,Ja***l,Senior Engineering Program Manager,Fivetran,54a4245a7468693b8c3ca62f,ai-engineer-code-summit
 tpm,Doug,Be***k,Senior Program Manager,Freshworks,684ee3de4d358e0001b9b5c9,qcon-sf
@@ -2390,7 +2390,7 @@ enablement,Cheryl,Bl***n,Learning Manager,Uber,5d67e25e80f93e0550d0d6ff,qcon-sf
 enablement,Kim,Cl***k,Human Resources Training Development Manager,Adobe,68c4e8658194a200010ff698,qcon-sf
 enablement,Priyanka,Oj***a,Learning Manager,LinkedIn,69aa9d047e1478000113c596,qcon-sf
 tpm,Aparna,Na***n,Senior Manager Program Management,Freshworks,57d8cc06a6da9872327650b6,qcon-sf
-tpm,Kishore,Pa***y,"Senior Manager, Program Management",Confluent,57ddc049a6da987b015b289e,
+tpm,Kishore,Pa***y,"Senior Manager, Program Management",Confluent,57ddc049a6da987b015b289e,qcon-sf
 tpm,Zack,Gi***s,Senior Manager Program Management,Twilio,54aad30674686906305f7d1b,qcon-sf
 tpm,Sivapriya,Ku***r,Senior Manager - Program Management,Freshworks,62f9d6087eef67000135abc4,qcon-sf
 tpm,Jane,Ha***d,Senior Manager Program Management,MongoDB,5d4535b2a3ae6157bc709936,qcon-sf
@@ -2421,7 +2421,7 @@ tpm,Nikita,Ni***m,Global HR Program & Portfolio Manager,Freshworks,5f9952ed45939
 tpm,Brandon,At***l,"Manager, Professional Services, International Program Management",Twilio,683275c5e5ce4f0001493bf3,qcon-sf
 tpm,Brian,O'***e,"Manager, AI Solutions Engineering - Startup Program",Neo4j,57da4408a6da984a5cd3c19b,ai-engineer-code-summit
 tpm,Alice,Ne***f,"Manager II, Technical Program Management",Datadog,66fc1a3e54e6ee0001769977,qcon-sf
-tpm,Orion,St***s,Senior Manager - Technical Program Management (Security Risk),Confluent,679bc9da5cc7d30001bfc1f5,
+tpm,Orion,St***s,Senior Manager - Technical Program Management (Security Risk),Confluent,679bc9da5cc7d30001bfc1f5,qcon-sf
 tpm,Adela,Ju***g,"Senior Food Program Operations Manager, San Francisco",OpenAI,66fd9ebc7a4c220001e9d26a,ai-engineer-code-summit;qcon-sf;codex-community-meetup-12;agentic-ai-night
 tpm,Glenn,Bi***r,"Senior Manager, TPM - Trust & Security",Atlassian,557150f473696458624f7c00,ai-engineer-code-summit
 tpm,George,Va***n,Principal Technical Program/Product Manager - Corporate Engineering,Atlassian,57df243aa6da98399f95987e,ai-engineer-code-summit
@@ -2436,7 +2436,7 @@ tpm,Anshul,Ve***a,"Campaign, Programs and Events Manager",Snowflake,63e00f045772
 tpm,Emma,Sc***e,Impact Programs Manager,Atlassian,6220ed8116efa60001d7f625,ai-engineer-code-summit
 tpm,Julia,We***l,"Enterprise Lead, Marketing Program Management",Anthropic,54a2128f74686938259d8b0a,ai-engineer-code-summit;ai-dev-night-aws-anthropic;claude-code-workshop-sf;claude-code-workshop-south-bay
 tpm,Danny,Ja***p,Head of Program Management,Atlassian,61387f57bd34bc000153fa0e,ai-engineer-code-summit
-tpm,Lawrence,Pa***n,Programmes / Engagements Lead,Confluent,66f8a28c8dcef000015a0ae4,
+tpm,Lawrence,Pa***n,Programmes / Engagements Lead,Confluent,66f8a28c8dcef000015a0ae4,qcon-sf
 tpm,Valentin,Lu***u,Director Program Management Office,UiPath,5aadba8ca6da98c3f8d3a5e1,ai-engineer-code-summit
 tpm,Kimberly,Sl***r,"Manager, Recruiting Projects & Programs",MongoDB,60d016f459a45a0001948a59,qcon-sf
 tpm,Meghan,Je***n,Senior Scaling Operations Program Manager,Duolingo,63567fbab0b89f00012a90bc,qcon-sf
